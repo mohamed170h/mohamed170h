@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamed170h
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Bug Bounty Hunting and Blue Team certifications
+- 🌱 I’m currently learning Bug Bounty Hunting and Blue Team Missions to make our cyber world a safer place
 
 
 <!---
